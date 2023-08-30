@@ -1,0 +1,42 @@
+.custom-bg
+{
+    background: #1de9b6!important;
+}
+
+.admin .card
+{
+    border: 1px solid #1de9b6; 
+}
+.admin .card:hover
+{
+    background: #e2e2e2;
+    cursor: pointer;
+}
+
+
+.list-group-item.active
+{
+    background: #1de9b6!important;
+    border-color: #1de9b6!important;
+    text-align: center; 
+    color: #000;
+}
+.dropdown-item:hover
+{
+    background: #1de9b6!important;
+    cursor: pointer;
+}
+.discount-label
+{
+    font-size: 13px!important;
+    font-style: italic!important;  
+}
+.product-card:hover
+{
+    background: #e2e2e2;
+    cursor: pointer; 
+}
+.product-card
+{
+    border: solid 0.7px #000;
+}
